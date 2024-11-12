@@ -57,4 +57,6 @@ $ yarn start:dev
 ## 🤝 Contribuídores
 
 <a href="https://github.com/angelogluz"><img src="https://github.com/angelogluz.png" width="45" height="45"></a> &nbsp;
+<a href="https://github.com/luishmf02"><img src="https://github.com/luishmf02.png" width="45" height="45"></a> &nbsp;
+
 
